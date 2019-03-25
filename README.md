@@ -1,1 +1,1 @@
-# eslint-config-vue
+# eslint-config
